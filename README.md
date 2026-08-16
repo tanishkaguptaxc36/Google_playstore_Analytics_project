@@ -8,7 +8,7 @@ This project performs an in-depth analysis of Google Play Store app data, includ
 - [Methodology](#methodology)
 - [Analysis and Visualizations](#analysis-and-visualizations)
 - [Dashboards](#dashboards)
-- [How to View the Project](#how-to-view-the-project)
+
 
 ## Project Overview
 
