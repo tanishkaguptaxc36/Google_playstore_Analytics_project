@@ -82,7 +82,7 @@ The project produces a comprehensive `dashboard.html` file that integrates all t
     -   **Visibility**: Only visible between 3 PM - 5 PM IST.
 
 -   **Task 2: Global Installs by Category (Choropleth)** 
-    -   **Description**: A choropleth map showing global install distribution for the top 5 categories (excluding those starting with A, C, G, S). Countries with over 1M installs are highlighted.
+    -   **Description**: A choropleth map showing global install distribution for the top 5 categories (excluding those starting with A, C, G, S). Countries with over 1M installs are highlighted. Country data is added to met this limitation.
     -   **Visibility**: Only visible between 6 PM - 8 PM IST.
 
 -   **Task 3: Avg Installs vs Avg Revenue (Dual-Axis)**
